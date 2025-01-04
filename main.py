@@ -18,7 +18,7 @@ for word in menu_options:
 menu_choice=input("Enter a number you wish to use:")
 
 if menu_choice=='1':
-    print("Hello there")
+    print("Here is the mail you recieved")
 elif menu_choice=='2':
     print("This is a safe space")
 elif menu_choice =='3':
