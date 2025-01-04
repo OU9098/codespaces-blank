@@ -1,6 +1,6 @@
 
 print("Goodmorning user, welcome to this interface! today I am your chatbot")
-name=input("Hello, what is your name?")
+name=input("Hello, what is your name?") 
 age=input(f"Nice to meet you {name}, how old are you?")
 print("Oh to have an an acutual age, despite my capbabilities I can't even tell you when I was born! :(\nAnyway, enough about me. How can I help?")
 
