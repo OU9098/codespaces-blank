@@ -1,7 +1,8 @@
 
-print("Goodmorning user, welcome to this interface! today I am your chatbot")
 name=input("Hello, what is your name?") 
 age=input(f"Nice to meet you {name}, how old are you?")
+
+print("Goodmorning user, welcome to this interface! today I am your chatbot")
 print("Oh to have an an acutual age, despite my capbabilities I can't even tell you when I was born! :(\nAnyway, enough about me. How can I help?")
 
 print()
@@ -14,8 +15,8 @@ print(" 3. Place holder 3")
 print(" 4. Exit conversation message")
 
 print()
+user_selection():
 menu_choice=input("Please select a number of your choice (1 2 3 or 4)")
-
 if menu_choice=='1':
     print("Here is the mail you recieved")
 elif menu_choice=='2':
